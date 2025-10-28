@@ -9,7 +9,7 @@ Explicando as funções e suas utilidades:
 
 2. Lista de Compras
 
-  adicionarItem(): adiciona o item digitado no input à lista (<ul>) e limpa o input.
+  adicionarItem(): adiciona o item digitado no input à lista e limpa o input.
 
   limparLista(): remove todos os itens da lista.
   Usadas em botões “Adicionar” e “Limpar” para gerenciar a lista de compras.
