@@ -23,3 +23,6 @@ Explicando as funções e suas utilidades:
   Botão “Adicionar”: adiciona nova tarefa e atualiza a lista.
 
   Botão “Limpar”: limpa todas as tarefas e atualiza a lista.
+
+  -testando-
+  
